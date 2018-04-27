@@ -1,0 +1,27 @@
+{{>header}}
+    <div class="row" style="margin-top: 100px;">
+        <div class="col ten push_three">
+        {{#authenticated}}
+        <p class="alignleft"><a href="/add/{{id_proj}}" class="btn btn-default">Добавить сборку</a></p>
+        {{/authenticated}}
+
+        <div class="text-center">       
+            <p> <table align="center" width="100%">
+            <tr><th>Дата загрузки</th><th>Версия</th><th>Скачать сборку</th><th>Описание изменений</th><th>Зависимости относительно других приложений</th>
+            {{#authenticated}}
+            <th>Изменить</th>
+            {{/authenticated}}
+            </tr>
+            {{#files}}
+            <tr><td>{{loadDate}}</td><td>{{version}}</td><td><a href="/download/{{id_file}}" class="btn btn-default">Скачать</a></td><td>{{changeLog}}</td><td>{{dependensies}}</td>
+            {{#authenticated}}
+            <td><a href="/edit/{{id_file}}" class="btn btn-default">Изменить</a></td>
+            {{/authenticated}}
+            </tr>
+            {{/files}}
+            </table></p> 
+        </div>
+        
+        </div>
+    </div>
+{{>footer}}

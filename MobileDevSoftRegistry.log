@@ -1,0 +1,13 @@
+[INFO] [f7674f42-315a-45d6-9afa-33b0e1fa3343] [2018-04-20 07:46:18 GMT+03:00] [localhost/4YLBZ886-1] 2018-04-20 04:46:18 UTC "GET /proj_info/10 HTTP/1.1" from 127.0.0.1 - 200 1295B in 9ms
+[INFO] [75d7c48b-c99d-465b-93dd-197e8f1bd1a4] [2018-04-20 07:46:18 GMT+03:00] [localhost/4YLBZ886-2] 2018-04-20 04:46:18 UTC "GET /css/style.css HTTP/1.1" from 127.0.0.1 - 304 0B in 0ms
+[INFO] [81738e8a-6553-40f9-8c92-3bc8a2d50f39] [2018-04-20 07:46:18 GMT+03:00] [localhost/4YLBZ886-3] 2018-04-20 04:46:18 UTC "GET /js/login.js HTTP/1.1" from 127.0.0.1 - 304 0B in 0ms
+[INFO] [ae053763-aa18-4ca6-a40b-157d5ea3018d] [2018-04-20 07:48:02 GMT+03:00] [localhost/Zv7HEzlR-1] 2018-04-20 04:48:02 UTC "GET /proj_info/10 HTTP/1.1" from 127.0.0.1 - 200 1295B in 10ms
+[INFO] [3bba18c3-7d4d-46cc-83bf-1a1760e94c97] [2018-04-20 07:48:02 GMT+03:00] [localhost/Zv7HEzlR-2] 2018-04-20 04:48:02 UTC "GET /css/style.css HTTP/1.1" from 127.0.0.1 - 304 0B in 0ms
+[INFO] [ca4e0bae-d128-4dc5-a971-d81d0a00138b] [2018-04-20 07:48:02 GMT+03:00] [localhost/Zv7HEzlR-3] 2018-04-20 04:48:02 UTC "GET /js/login.js HTTP/1.1" from 127.0.0.1 - 304 0B in 1ms
+[INFO] [c2d4721c-f6f3-44e2-bfce-2b156ed7cc5d] [2018-04-20 07:49:56 GMT+03:00] [localhost/Zv7HEzlR-4] 2018-04-20 04:49:56 UTC "GET /do_login HTTP/1.1" from 127.0.0.1 - 200 1176B in 3ms
+[INFO] [a0eda220-9585-41b5-9263-494d30cf0d9a] [2018-04-20 07:49:56 GMT+03:00] [localhost/Zv7HEzlR-5] 2018-04-20 04:49:56 UTC "GET /js/login.js HTTP/1.1" from 127.0.0.1 - 304 0B in 1ms
+[INFO] [46a2a718-7226-4933-bbb3-09cb06c0a9e1] [2018-04-20 07:49:56 GMT+03:00] [localhost/Zv7HEzlR-6] 2018-04-20 04:49:56 UTC "GET /css/style.css HTTP/1.1" from 127.0.0.1 - 304 0B in 0ms
+[INFO] [ba00cd59-1173-4ae3-884a-124186d5edf1] [2018-04-20 07:50:04 GMT+03:00] [localhost/Zv7HEzlR-7] 2018-04-20 04:50:04 UTC "POST /login HTTP/1.1" from 127.0.0.1 - 200 30B in 153ms
+[INFO] [2d660e3e-fa02-4e69-bca0-4426cef866ac] [2018-04-20 07:50:04 GMT+03:00] [localhost/Zv7HEzlR-8] 2018-04-20 04:50:04 UTC "GET / HTTP/1.1" from 127.0.0.1 - 200 1176B in 41ms
+[INFO] [89e4688e-daf1-4132-be6c-114eec57a0f2] [2018-04-20 07:50:04 GMT+03:00] [localhost/Zv7HEzlR-9] 2018-04-20 04:50:04 UTC "GET /js/login.js HTTP/1.1" from 127.0.0.1 - 304 0B in 0ms
+[INFO] [13c4a64a-a15e-4dc6-98ce-7d7cbf1aad08] [2018-04-20 07:50:04 GMT+03:00] [localhost/Zv7HEzlR-10] 2018-04-20 04:50:04 UTC "GET /css/style.css HTTP/1.1" from 127.0.0.1 - 304 0B in 0ms
